@@ -72,7 +72,7 @@
         <mxCell id="yz7fTCo3j7Fu_eBt68Si-39" parent="yz7fTCo3j7Fu_eBt68Si-14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;b&gt;WWW&lt;/b&gt;&lt;div&gt;http://assorf.ca&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="110" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="yz7fTCo3j7Fu_eBt68Si-42" parent="yz7fTCo3j7Fu_eBt68Si-14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;b&gt;Echolink&lt;/b&gt;&lt;/div&gt;&lt;div&gt;655015&lt;/div&gt;&lt;div&gt;VE2RRW-R&lt;/div&gt;" vertex="1">
+        <mxCell id="yz7fTCo3j7Fu_eBt68Si-42" parent="yz7fTCo3j7Fu_eBt68Si-14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;Echolink&lt;/b&gt;&lt;/div&gt;&lt;div&gt;655015&lt;/div&gt;&lt;div&gt;VE2RRW-R&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="100" x="170" y="145" as="geometry" />
         </mxCell>
         <mxCell id="yz7fTCo3j7Fu_eBt68Si-46" parent="yz7fTCo3j7Fu_eBt68Si-14" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.cloud;network2IconYOffset=-0.08;network2IconW=1.0004;network2IconH=0.7222;" value="" vertex="1">
@@ -182,7 +182,7 @@
         <mxCell id="yz7fTCo3j7Fu_eBt68Si-29" parent="yz7fTCo3j7Fu_eBt68Si-99" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;fontStyle=1;container=0;" value="" vertex="1">
           <mxGeometry height="80" width="40.65" as="geometry" />
         </mxCell>
-        <mxCell id="yz7fTCo3j7Fu_eBt68Si-84" parent="yz7fTCo3j7Fu_eBt68Si-99" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" value="&lt;div&gt;&lt;b&gt;Echolink&lt;/b&gt;&lt;/div&gt;&lt;div&gt;977449&lt;/div&gt;&lt;div&gt;VE2RRY-R&lt;/div&gt;" vertex="1">
+        <mxCell id="yz7fTCo3j7Fu_eBt68Si-84" parent="yz7fTCo3j7Fu_eBt68Si-99" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" value="&lt;div&gt;&lt;b&gt;Echolink&lt;/b&gt;&lt;/div&gt;&lt;div&gt;977449&lt;/div&gt;&lt;div&gt;VE2RRY-R&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="30" y="100" as="geometry" />
         </mxCell>
         <mxCell id="yz7fTCo3j7Fu_eBt68Si-41" parent="yz7fTCo3j7Fu_eBt68Si-99" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="448.025 MHz (-)&lt;div&gt;CTCSS 100.0 Hz&lt;/div&gt;" vertex="1">
